@@ -1,0 +1,14 @@
+*.swp
+.DS_Store
+.DS_Store?
+*~
+
+temp/
+
+# swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+act.sh
